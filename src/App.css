@@ -8,12 +8,9 @@
   background-color: #067BC2;
 }
 
-.button {
-  
-}
-
 .button p{
   color:white;
+  margin: 0;
   font-family:Helvetica, sans-serif;
   font-weight:bold;
   font-size:5em;
