@@ -52,3 +52,9 @@
   font-size: 2em;
   margin: 1em;
 }
+
+.header-text {
+  color: white;
+  font-size: 4em;
+  margin: 0 0 1em 0;
+}

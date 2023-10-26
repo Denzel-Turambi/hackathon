@@ -10,6 +10,7 @@ function App() {
 
   return (
     <div className="app" ontouchstart="">
+      {counter === 0 ? <h1 className="header-text">Do NOT click the button!</h1> : <h1 className="header-text">Nobody ever listens to me 😢</h1>}
       <div class="button" onClick={clickCounter}>
         <p>Click Me!</p>
       </div>
